@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Srivastava</h1>
 <h3 align="center">I am a Programmer and a Full Stack Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh4505" alt="adarsh4505" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **adarsh.sri545@gmail.com**
@@ -21,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh4505&show_icons=true&locale=en" alt="adarsh4505" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh4505&" alt="adarsh4505" /></p>
-
