@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Srivastava</h1>
 <h3 align="center">I am a Programmer and a Full Stack Developer.</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Dot Net Core**
 
 - 📫 How to reach me **adarsh.sri545@gmail.com**
 
